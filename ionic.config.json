@@ -1,0 +1,7 @@
+{
+  "name": "Soft_Skill",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
