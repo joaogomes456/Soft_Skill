@@ -1,0 +1,6 @@
+{
+	"appId": "soft.skill",
+	"appName": "Soft Skill",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
